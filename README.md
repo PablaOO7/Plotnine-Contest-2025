@@ -146,9 +146,7 @@ Each visualization explores a different aspect of the Einstein Hat:
 ---
 
 ## 👤 Author
-
-**Jaspreet Pabla**  
-2025 Plotnine Contest Submission
+**Author**: Jaspreet Pabla | **Year**: 2025 | **Contest**: Plotnine Data Storytelling  
 
 *"In the end, I discovered that infinity doesn't repeat—it evolves."*
 
@@ -163,6 +161,7 @@ Each visualization explores a different aspect of the Einstein Hat:
 
 
 **License**: MIT (code) | CC-BY-4.0 (visualizations)
+
 
 
 
