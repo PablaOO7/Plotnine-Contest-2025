@@ -28,7 +28,7 @@ Here are some images of the animations I created:
 
 **Output**: `einstein_hat_story.mp4` (500 frames, 80ms intervals)
 
-<a href="https://github.com/PablaOO7/Plotnine-Contest-2025/blob/master/output_animations/einstein_hat_story.mp4" target="_blank">▶️ Download & Watch Video</a>
+https://github.com/user-attachments/assets/66f90dc0-1fab-4661-a48e-c94b2a496281
 
 ---
 
@@ -39,7 +39,7 @@ Einstein Hat tiles compose a fractal tree structure with recursive branching. Ch
 
 **Output**: `kaleidoscope_fractal_tree_4K.mp4` (42 frames, 4K quality)
 
-<a href="https://github.com/PablaOO7/Plotnine-Contest-2025/blob/master/output_animations/kaleidoscope_fractal_tree_4K.mp4" target="_blank">▶️ Download & Watch Video</a>
+https://github.com/user-attachments/assets/2c6b8e17-31a5-4638-b551-25e0e762b5ea
 
 ---
 
@@ -50,7 +50,7 @@ A perfectly symmetric butterfly emerges through simulated ink diffusion on paper
 
 **Output**: `butterfly_rorschach.mp4` (120 frames, ink spreading effect)
 
-<a href="https://github.com/PablaOO7/Plotnine-Contest-2025/blob/master/output_animations/butterfly_rorschach.mp4" target="_blank">▶️ Download & Watch Video</a>
+https://github.com/user-attachments/assets/0df99e45-4517-421c-a440-5f010023f07e
 
 ---
 
@@ -163,6 +163,7 @@ Each visualization explores a different aspect of the Einstein Hat:
 
 
 **License**: MIT (code) | CC-BY-4.0 (visualizations)
+
 
 
 
