@@ -13,12 +13,7 @@ Three visualizations exploring the 2023 mathematical discovery of the "Einstein 
 
 **Output**: `einstein_hat_story.mp4` (500 frames, 80ms intervals)
 
-<div style="text-align: center;">
-  <video width="480" height="360" controls>
-    <source src="output_animations/einstein_hat_story.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+**[▶️ Download & Watch Video](https://github.com/PablaOO7/Plotnine-Contest-2025/blob/master/output_animations/einstein_hat_story.mp4)** 
 
 ---
 
@@ -29,12 +24,8 @@ Einstein Hat tiles compose a fractal tree structure with recursive branching. Ch
 
 **Output**: `kaleidoscope_fractal_tree_4K.mp4` (42 frames, 4K quality)
 
-<div style="text-align: center;">
-  <video width="480" height="360" controls>
-    <source src="output_animations/kaleidoscope_fractal_tree_4K.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+**[▶️ Download & Watch Video](https://github.com/PablaOO7/Plotnine-Contest-2025/blob/master/output_animations/kaleidoscope_fractal_tree_4K.mp4)** 
+
 ---
 
 ### 3. 🦋 Butterfly Rorschach
@@ -44,12 +35,7 @@ A perfectly symmetric butterfly emerges through simulated ink diffusion on paper
 
 **Output**: `butterfly_rorschach.mp4` (120 frames, ink spreading effect)
 
-<div style="text-align: center;">
-  <video width="480" height="360" controls>
-    <source src="output_animations/butterfly_rorschach.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+**[▶️ Download & Watch Video](https://github.com/PablaOO7/Plotnine-Contest-2025/blob/master/output_animations/butterfly_rorschach.mp4)** 
 
 ---
 
@@ -174,5 +160,6 @@ Here are some images of the visualizations I created:
 - Contest Discussion: 
 
 ---
+
 
 **License**: MIT (code) | CC-BY-4.0 (visualizations)
