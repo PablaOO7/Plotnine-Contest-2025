@@ -4,6 +4,21 @@ Three visualizations exploring the 2023 mathematical discovery of the "Einstein 
 
 ---
 
+## 🖼️ Visualizations Gallery
+
+Here are some images of the animations I created:
+
+|   |   |   |
+|---|---|---|
+| ![Einstein Hat Story](output_images/einstein_hat_story.png) | ![Kaleidoscopic Tree](output_images/kaleidoscope_fractal_tree_4K.png) | ![Butterfly Rorschach](output_images/butterfly_rorschach.png) |
+| _1. The Einstein Hat Story_ | _2. Kaleidoscopic Tree of life_ | _3. Butterfly Rorschach_ |
+| ![Kaleidoscopic Tree of Life](output_images/kaleidoscope_flower_of_life_4K.png) | ![Mandala Visualization](output_images/kaleidoscope_mandala_4K.png) | ![Spirograph Pattern](output_images/kaleidoscope_spirograph_4K.png) |
+| _4. Kaleidoscopic Flower of Life_ | _5. Mandala Visualization_ | _6. Spirograph Pattern_ |
+| ![Sri Yantra](output_images/kaleidoscope_sri_yantra_4K.png) |   |   |
+| _7. Sri Yantra_ |   |   |
+
+---
+
 ## 🎬 The Three Visualizations
 
 ### 1. 🌱 The Einstein Hat Story
@@ -119,21 +134,6 @@ Each visualization explores a different aspect of the Einstein Hat:
 
 ---
 
-## 🖼️ Visualizations Gallery
-
-Here are some images of the visualizations I created:
-
-|   |   |   |
-|---|---|---|
-| ![Einstein Hat Story](output_images/einstein_hat_story.png) | ![Kaleidoscopic Tree](output_images/kaleidoscope_fractal_tree_4K.png) | ![Butterfly Rorschach](output_images/butterfly_rorschach.png) |
-| _1. The Einstein Hat Story_ | _2. Kaleidoscopic Tree of life_ | _3. Butterfly Rorschach_ |
-| ![Kaleidoscopic Tree of Life](output_images/kaleidoscope_flower_of_life_4K.png) | ![Mandala Visualization](output_images/kaleidoscope_mandala_4K.png) | ![Spirograph Pattern](output_images/kaleidoscope_spirograph_4K.png) |
-| _4. Kaleidoscopic Flower of Life_ | _5. Mandala Visualization_ | _6. Spirograph Pattern_ |
-| ![Sri Yantra](output_images/kaleidoscope_sri_yantra_4K.png) |   |   |
-| _7. Sri Yantra_ |   |   |
-
----
-
 ## 📚 References
 
 **Mathematical Source**:
@@ -163,4 +163,5 @@ Here are some images of the visualizations I created:
 
 
 **License**: MIT (code) | CC-BY-4.0 (visualizations)
+
 
