@@ -157,12 +157,13 @@ Each visualization explores a different aspect of the Einstein Hat:
 ## 📬 Contact
 
 - GitHub: [\[Your GitHub Profile\]](https://github.com/PablaOO7)
-- Contest Discussion: [\[Contest Discussion Page\](https://github.com/has2k1/plotnine/discussions/999#discussion-9035441)]
+- Contest Discussion: [[Contest Discussion Page\]](https://github.com/has2k1/plotnine/discussions/999#discussion-9035441)
 
 ---
 
 
 **License**: MIT (code) | CC-BY-4.0 (visualizations)
+
 
 
 
